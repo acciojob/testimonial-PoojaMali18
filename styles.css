@@ -1,1 +1,23 @@
-/*  your css code here. If applicable */
+main
+{
+	background-color:#f5f5f5;
+	width:700px;
+	height:250px;
+	padding:25px;
+}
+div
+{
+	box-sizing:border-box;
+	width:700px;
+	background-color:white;
+	height:80px;
+	padding:10px;
+	margin-bottom:10px;
+	border: 1px solid black;
+}
+p{
+	
+	font-style:italic;
+	text-align:right;
+	
+}
